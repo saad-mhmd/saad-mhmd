@@ -18,6 +18,5 @@ My primary expertise lies in developing mobile and web applications, with an int
 I am proficient in creating efficient, user-friendly interfaces and writing clean, maintainable code.
 I am eager to apply my skills in a practical setting and contribute to a dynamic team, while expanding my knowledge in full-stack technologies.
 
-- 🔭 I’m currently looking for an internship 3-4 month internship, starting at May.
-- I mainly work 
+
 - 📫 Reach me on: mksa4d@gmail.com
