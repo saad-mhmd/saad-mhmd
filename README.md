@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am a software developer currently pursuing my M1 and actively seeking a 3-4 month internship opportunity.
+I am a software developer currently pursuing my master's degree and actively seeking a 6-month internship opportunity.
 
 Passionate about the world of computers. I see technology as science spoken into existence, and my mission as an engineer is to do the translation.
 My primary expertise lies in developing mobile and web applications, with an interest in full-stack development.
