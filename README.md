@@ -15,7 +15,7 @@ I am currently seeking a **6-month internship** starting **March 2025**, where I
 ## 🌍 Languages  
 - **Arabic:** Native  
 - **English:** Fluent (C1/C2)  
-- **French:** Elementary proficiency (A2/B1)  
+- **French:** Elementary proficiency (B1)  
 - **Italian:** Beginner (A1)  
 
 ## 🚀 What I’m Working On  
