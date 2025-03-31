@@ -3,7 +3,7 @@
 ## 🌟 About Me  
 I am a **Java Full-Stack Developer** and a passionate software engineering student pursuing my master's degree at **Junia ISEN Graduate School of Engineering** in Lille, France. I specialize in building scalable and efficient web and mobile applications with a focus on delivering clean, maintainable, and user-friendly solutions.  
 
-I am currently seeking a **6-month internship** starting **March 2025**, where I can contribute to impactful projects and grow as a professional in **Java Spring** and **Angular** environments.  
+I am currently seeking a **6-month internship** starting **ASAP**, where I can contribute to impactful projects and grow as a professional in **Java Spring** and **Angular** environments.  
 
 ## 🛠️ Technical Skills  
 - **Programming Languages:** Java, JavaScript, HTML/CSS, SQL  
